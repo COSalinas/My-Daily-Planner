@@ -29,7 +29,7 @@ var myDay = [
     },
     {
         id: '4',
-        hour: '013',
+        hour: '01',
         time: '13',
         meridiem: 'pm',
         reminder: ''
